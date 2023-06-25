@@ -1,4 +1,6 @@
 {
+	"text-alignment": "left",
+	"text-margin": 30,
 	"color-guide": "#444E50",
 	"color-inactive": "#747870",
 	"color-active": "#444E50",
@@ -6,8 +8,6 @@
 	"color-favorite-active": "#F1586C"
 	"main-menu-text-visibility": true,
 	"guide-button-text-visibility": true,
-	"text-alignment": "left",
-	"text-margin": 30,
 	"recent-label": "~",
 	"favorites-label": "~",
 	"consoles-label": "~",
@@ -18,6 +18,8 @@
 	"back-label": "~",
 	"favorite-label": "~",
 	"remove-label": "~",
+	"empty-label": "This is a vast, empty space for now...",
+	"savestates-unsupported": "This core doesn't support savestates!",
 	"on-label": "ON",
 	"off-label": "OFF",
 	"am-label": "AM",
@@ -27,7 +29,6 @@
 	"day-label": "DD",
 	"hour-label": "HH",
 	"minute-label": "MM",
-	"meridian-time-label", "MT",
-	"title-label": "%s"
-	"empty-label": "This is a vast, empty space for now...",
+	"meridian-time-label": "MT",
+	"title-label": "Orbital %s"
 }

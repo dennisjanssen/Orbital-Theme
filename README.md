@@ -1,5 +1,11 @@
 # Orbital Theme
  A stellar theme for the Anbernic RG35XX
+Contains a boot logo and a full theme. Might need some tweaks on your end for localisation and a decent list of games (depending on your game art).
 
-WARNING
-Do not use yet, I haven't been able to test this out and it's missing some documentation on how to implement this. But it's coming!
+Preview of the theme:
+
+![Theme preview](https://github.com/dennisjanssen/Orbital-Theme/blob/main/Orbital%20Preview.jpg?raw=true)
+
+Boot logo preview:
+
+![Boot logo preview](https://github.com/dennisjanssen/Orbital-Theme/blob/main/Bootlogo%20Preview.png?raw=true)

@@ -1,8 +1,8 @@
 {
 	"iso-code": "nl",
-	"font": "Oswald-Regular.otf",
-	"font-size": 28,
-	"button-guide-font-size": 28,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "Recent",
 	"favorites-label": "Favorieten",
 	"consoles-label": "Consoles",
@@ -26,5 +26,5 @@
 	"hour-label": "uu",
 	"minute-label": "mm",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS %s"
+	"title-label": "Orbital %s"
 }

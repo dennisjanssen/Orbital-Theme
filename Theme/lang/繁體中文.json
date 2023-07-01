@@ -1,8 +1,8 @@
 {
 	"iso-code": "zh_tw",
-	"font": "NotoSansTC-Regular.otf",
-	"font-size": 26,
-	"button-guide-font-size": 26,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "歷史",
 	"favorites-label": "收藏",
 	"consoles-label": "遊戲",

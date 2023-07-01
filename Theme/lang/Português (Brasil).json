@@ -1,8 +1,8 @@
 {
 	"iso-code": "pt_br",
-	"font": "Oswald-Regular.otf",
-	"font-size": 28,
-	"button-guide-font-size": 26,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "Recente",
 	"favorites-label": "Favoritos",
 	"consoles-label": "Consoles",
@@ -26,5 +26,5 @@
 	"hour-label": "HH",
 	"minute-label": "MM",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS %s"
+	"title-label": "Orbital %s"
 }

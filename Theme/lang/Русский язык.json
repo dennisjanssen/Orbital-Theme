@@ -1,8 +1,8 @@
 {
 	"iso-code": "ru",
-	"font": "Oswald-Regular.otf",
-	"font-size": 28,
-	"button-guide-font-size": 23,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "Недавнее",
 	"favorites-label": "Избранное",
 	"consoles-label": "Консоли",

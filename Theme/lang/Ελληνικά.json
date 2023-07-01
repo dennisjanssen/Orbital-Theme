@@ -1,8 +1,8 @@
 {
 	"iso-code": "el",
-	"font": "FiraSansCondensed-Regular.ttf",
-	"font-size": 28,
-	"button-guide-font-size": 26,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "Πρόσφατα",
 	"favorites-label": "Αγαπημένα",
 	"consoles-label": "Κονσόλες",

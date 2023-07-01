@@ -1,8 +1,8 @@
 {
 	"iso-code": "th",
-	"font": "NotoSansThai-Regular.ttf",
-	"font-size": 28,
-	"button-guide-font-size": 28,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "เล่นล่าสุด",
 	"favorites-label": "เกมโปรด",
 	"consoles-label": "เครื่องเกม",

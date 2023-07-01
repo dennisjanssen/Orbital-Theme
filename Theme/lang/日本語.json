@@ -1,8 +1,8 @@
 {
 	"iso-code": "ja",
-	"font": "NotoSansSC-Regular.otf",
-	"font-size": 25,
-	"button-guide-font-size": 24,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "履歴",
 	"favorites-label": "お気に入り",
 	"consoles-label": "ゲーム",

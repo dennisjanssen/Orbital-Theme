@@ -1,8 +1,8 @@
 {
 	"iso-code": "bg",
-	"font": "Oswald-Regular.otf",
-	"font-size": 28,
-	"button-guide-font-size": 28,
+	"font": "font.ttf",
+	"font-size": 25.5,
+	"button-guide-font-size": 20,
 	"recent-label": "Скорошни",
 	"favorites-label": "Любими",
 	"consoles-label": "Конзоли",

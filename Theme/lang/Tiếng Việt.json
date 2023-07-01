@@ -1,7 +1,7 @@
 {
 	"iso-code": "vi",
-	"font": "NotoSans-Regular.ttf",
-	"font-size": 28,
+	"font": "font.ttf",
+	"font-size": 25.5,
 	"button-guide-font-size": 20,
 	"recent-label": "Gần đây",
 	"favorites-label": "Yêu thích",
@@ -26,5 +26,5 @@
 	"hour-label": "HH",
 	"minute-label": "MM",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS %s"
+	"title-label": "Orbital %s"
 }

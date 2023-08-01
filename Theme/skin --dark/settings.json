@@ -2,7 +2,7 @@
 	"text-alignment": "left",
 	"text-margin": 352,
 	"color-guide": "#ECEEEC",
-	"color-inactive": "#ECEEEC",
+	"color-inactive": "#999C99",
 	"color-active": "#FFFFFF",
 	"color-favorite-inactive": "#ECEEEC",
 	"color-favorite-active": "#F1586C",
